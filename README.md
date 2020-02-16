@@ -12,9 +12,6 @@ Reinforcement learning algorithms implementation. Custom OpenCV based environmen
 - [x]  PPO
 - [ ] DDPG
 
-### Installation Instruction
-
-
 ### Results
 ###### Value and Policy Iteration
 ![](https://github.com/khush3/rl_algorithms/blob/master/Results/Iter-Methods.gif)
