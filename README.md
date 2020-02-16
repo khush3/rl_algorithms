@@ -17,7 +17,7 @@ Reinforcement learning algorithms implementation. Custom OpenCV based environmen
 
 ### Results
 1. Value and Policy Iteration
-  ![Value and Policy Iteration](https://github.com/khush3/rl_algorithms/Results/Iter-Methods.gif)
+  ![Value and Policy Iteration](https://github.com/khush3/rl_algorithms/blob/master/Results/Iter-Methods.gif)
 
   |      Method      | Deterministic Frozen Lake | Stochastic Frozen Lake |
   | :--------------: | :-----------------------: | :--------------------: |
@@ -27,8 +27,8 @@ Reinforcement learning algorithms implementation. Custom OpenCV based environmen
   
 
 2. Q-Learning
-  ![Value and Policy Iteration](https://github.com/khush3/rl_algorithms/Results/Q-Learning.gif)
+  ![Value and Policy Iteration](https://github.com/khush3/rl_algorithms/blob/master/Results/Q-Learning.gif)
 
 
 3. Deep Q-Learning
-  ![Value and Policy Iteration](https://github.com/khush3/rl_algorithms/Results/Deep-Q-Learning.gif)
+  ![Value and Policy Iteration](https://github.com/khush3/rl_algorithms/blob/master/Results/Deep-Q-Learning.gif)
